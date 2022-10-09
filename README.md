@@ -1,16 +1,31 @@
-# 🚧 README em construção 🚧
+# Boas-vindas ao repositório do projeto Docker To Do List!
 
-<!-- Olá, Tryber!
+Neste projeto temos uma aplicação full-stack: um **aplicativo de tarefas**! Esta aplicação precisa ser conteinerizada para funcionar. Foi desenvolvido os arquivos de configuração para cada frente específica: `Front-end`, `Back-end` e `teste`, que valida se as aplicações estão se comunicando.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+<details>
+  <summary><strong>👨‍💻 O que foi aprendido</strong></summary><br />
 
-É essencial que você preencha esse documento por conta própria, ok?
+1. **_Conteinerizar_** aplicações;
+2. Criar uma conexão entre elas;
+3. Orquestrar seu funcionamento.
+  
+ </details>
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+<details>
+  <summary><strong>🗓 Tempo de projeto</strong></summary><br />
+  
+  * Este projeto foi individual;
+  * Foram necessários `1` dia dedicado ao projeto;
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+</details>
 
--->
+<details>
+  <summary><strong>:memo: Instruções para rodar essa aplicação</strong></summary><br />
+
+Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um fork](https://guides.github.com/activities/forking/).
+
+Após feito o fork, clone o repositório criado para o seu computador.
+
+Rode o `npm install`.
+
+</details>
